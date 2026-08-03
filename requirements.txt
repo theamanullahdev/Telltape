@@ -1,0 +1,8 @@
+pyyaml
+python-dotenv
+requests
+kokoro
+soundfile
+numpy
+matplotlib
+pillow

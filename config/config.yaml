@@ -1,0 +1,42 @@
+# Global defaults. Per-project overrides live in projects/<slug>/project.json.
+
+video:
+  width: 1920
+  height: 1080
+  fps: 30
+
+tts:
+  engine: kokoro
+  voice: am_michael     # calm male voice, closest default to a Wendover/Economics Explained tone
+  speed: 1.0
+
+footage:
+  provider: pexels
+  api_key_env: PEXELS_API_KEY
+  cache_dir: footage
+  subcut_seconds: [4, 7]   # hard-cut range within one scene, Wendover-style pacing
+
+graphics:
+  default_map_style: wendover_blue
+  default_chart_style: wendover_blue
+
+music:
+  enabled: true
+  provider: freesound
+  api_key_env: FREESOUND_API_KEY
+  query: "corporate documentary background music"
+  bed_volume_db: -15       # music level relative to narration when narration is silent
+  # additional reduction while narration is speaking is handled by
+  # ffmpeg's sidechaincompress filter (src/render/assemble.py), not a
+  # static dB value here, it reacts to actual narration loudness per moment
+
+captions:
+  enabled: true
+  font: "Arial"
+  font_size: 20
+  margin_v: 35            # distance from bottom edge, px
+  max_width_percent: 70   # wraps before eating the full frame width
+
+paths:
+  projects_dir: projects
+  output_dir: output
