@@ -1,0 +1,1185 @@
+[
+  {
+    "start": 0.375,
+    "end": 24.9625,
+    "narration": "On February 1st, 2024, somewhere in the Red Sea, a missile is arcing toward a container ship called the Koi. It misses \u2014 barely. The ship isn't owned by a government, and it isn't carrying weapons. It's chartered by a French shipping company most people have never heard of, hauling the same boring cargo it hauls every week: furniture, electronics, clothes, the stuff in your house right now.",
+    "visual": {
+      "type": "footage",
+      "query": "Red Sea, night, a container ship silhouette, a missile trail in the distance",
+      "segments": [
+        {
+          "clip_path": "footage/36233044.mp4",
+          "duration": 4.010389974066422,
+          "source": {
+            "provider": "pexels",
+            "id": 36233044,
+            "url": "https://www.pexels.com/video/large-cargo-ship-with-colorful-containers-at-sea-36233044/",
+            "photographer": "Ph\u1ea1m C\u00f4ng Th\u00e0nh",
+            "photographer_url": "https://www.pexels.com/@ph-m-cong-thanh-248511425",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 17.3
+          }
+        },
+        {
+          "clip_path": "footage/2943126.mp4",
+          "duration": 4.139770231079225,
+          "source": {
+            "provider": "pexels",
+            "id": 2943126,
+            "url": "https://www.pexels.com/video/aerial-footage-of-a-cargo-ship-at-sea-loaded-with-containers-2943126/",
+            "photographer": "Alexander Bobrov",
+            "photographer_url": "https://www.pexels.com/@alexander-bobrov-390088",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 31.6
+          }
+        },
+        {
+          "clip_path": "footage/35820347.mp4",
+          "duration": 4.232392574150627,
+          "source": {
+            "provider": "pexels",
+            "id": 35820347,
+            "url": "https://www.pexels.com/video/red-cargo-ship-at-sea-with-seagulls-flying-35820347/",
+            "photographer": "Sururi Ball\u0131da\u011f Director",
+            "photographer_url": "https://www.pexels.com/@drector",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 4.9
+          }
+        },
+        {
+          "clip_path": "footage/32461809.mp4",
+          "duration": 5.626741769844022,
+          "source": {
+            "provider": "pexels",
+            "id": 32461809,
+            "url": "https://www.pexels.com/video/cargo-ship-at-sea-with-shipping-containers-32461809/",
+            "photographer": "TimePRO TV",
+            "photographer_url": "https://www.pexels.com/@timepro-tv-2148736540",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.7
+          }
+        },
+        {
+          "clip_path": "footage/14187902.mp4",
+          "duration": 6.578205450859704,
+          "source": {
+            "provider": "pexels",
+            "id": 14187902,
+            "url": "https://www.pexels.com/video/drone-view-of-harbor-and-container-port-14187902/",
+            "photographer": "Artur Apsitis",
+            "photographer_url": "https://www.pexels.com/@artur-apsitis-337114500",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 13.0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 24.9625,
+    "end": 46.15,
+    "narration": "This video isn't really about the missile. It's about how that company \u2014 CMA CGM \u2014 quietly became one of the most powerful players in global trade, and how a war that should have hurt it made it richer than it had ever been. To understand how, we have to go back to a single ship, in 1978.",
+    "visual": {
+      "type": "footage",
+      "query": "fast cuts of ports, cranes, a wall of containers",
+      "segments": [
+        {
+          "clip_path": "footage/12734642.mp4",
+          "duration": 4.140018033791573,
+          "source": {
+            "provider": "pexels",
+            "id": 12734642,
+            "url": "https://www.pexels.com/video/a-destroyed-building-after-a-missile-attack-in-ukraine-12734642/",
+            "photographer": "Alex Moisieiev",
+            "photographer_url": "https://www.pexels.com/@alexmay",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 37.0
+          }
+        },
+        {
+          "clip_path": "footage/15637121.mp4",
+          "duration": 6.441364649412655,
+          "source": {
+            "provider": "pexels",
+            "id": 15637121,
+            "url": "https://www.pexels.com/video/jeep-really-2023-15637121/",
+            "photographer": "Rishe Clicks",
+            "photographer_url": "https://www.pexels.com/@rishe-clicks-61453900",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.8
+          }
+        },
+        {
+          "clip_path": "footage/12734540.mp4",
+          "duration": 6.645882010448524,
+          "source": {
+            "provider": "pexels",
+            "id": 12734540,
+            "url": "https://www.pexels.com/video/a-building-in-ruins-after-a-missile-attack-in-ukraine-12734540/",
+            "photographer": "Alex Moisieiev",
+            "photographer_url": "https://www.pexels.com/@alexmay",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 39.8
+          }
+        },
+        {
+          "clip_path": "footage/12734537.mp4",
+          "duration": 3.960235306347247,
+          "source": {
+            "provider": "pexels",
+            "id": 12734537,
+            "url": "https://www.pexels.com/video/houses-in-ruins-after-a-missile-attack-in-ukraine-12734537/",
+            "photographer": "Alex Moisieiev",
+            "photographer_url": "https://www.pexels.com/@alexmay",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 19.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 46.15,
+    "end": 67.89999999999999,
+    "narration": "Jacques Saad\u00e9 was a Lebanese businessman who fled Beirut as civil war broke out. He landed in Marseille with one ship, one route, and four employees \u2014 a line running between Marseille and Beirut, built to keep a link open to the home he'd left behind. He called it Compagnie Maritime d'Affr\u00e8tement. CMA.",
+    "visual": {
+      "type": "footage",
+      "query": "archival-style stills, Beirut, Marseille port, 1970s",
+      "segments": [
+        {
+          "clip_path": "footage/32949185.mp4",
+          "duration": 5.801653564925838,
+          "source": {
+            "provider": "pexels",
+            "id": 32949185,
+            "url": "https://www.pexels.com/video/aerial-view-of-beirut-twin-towers-skyline-32949185/",
+            "photographer": "Vizual Production",
+            "photographer_url": "https://www.pexels.com/@vizualproduction",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 30.0
+          }
+        },
+        {
+          "clip_path": "footage/32949182.mp4",
+          "duration": 4.640856104681312,
+          "source": {
+            "provider": "pexels",
+            "id": 32949182,
+            "url": "https://www.pexels.com/video/sunset-aerial-view-of-iconic-city-skyscrapers-32949182/",
+            "photographer": "Vizual Production",
+            "photographer_url": "https://www.pexels.com/@vizualproduction",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.7
+          }
+        },
+        {
+          "clip_path": "footage/857175.mp4",
+          "duration": 4.958320266356633,
+          "source": {
+            "provider": "pexels",
+            "id": 857175,
+            "url": "https://www.pexels.com/video/seaside-video-footage-857175/",
+            "photographer": "Vimeo",
+            "photographer_url": "https://www.pexels.com/@vimeo",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 63.8
+          }
+        },
+        {
+          "clip_path": "footage/31197790.mp4",
+          "duration": 6.34917006403621,
+          "source": {
+            "provider": "pexels",
+            "id": 31197790,
+            "url": "https://www.pexels.com/video/sunny-day-at-modern-residential-house-31197790/",
+            "photographer": "Sururi Ball\u0131da\u011f Director",
+            "photographer_url": "https://www.pexels.com/@drector",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 23.7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 67.89999999999999,
+    "end": 103.425,
+    "narration": "For the next two decades he grew it the way most shipping fortunes get built: patiently, and through acquisition. In 1996 he bought Compagnie G\u00e9n\u00e9rale Maritime \u2014 the former state-owned French line that once ran legendary transatlantic liners like the Normandie, a fading piece of national pride, privatized and struggling. He turned it profitable within a year, merged it with his own company in 1999, and instantly had the twelfth-largest shipping line on Earth. By 2006, it was already third.",
+    "visual": {
+      "type": "chart",
+      "query": "growth chart, ships multiplying, dates ticking forward",
+      "params": {
+        "kind": "bar",
+        "args": {
+          "title": "Top Container Carriers by Capacity (2026)",
+          "subtitle": "Million TEU \u2014 CMA CGM is #3 and growing fastest",
+          "categories": [
+            "MSC",
+            "Maersk",
+            "CMA CGM",
+            "COSCO",
+            "Hapag-Lloyd"
+          ],
+          "values": [
+            6.5,
+            4.3,
+            3.8,
+            3.3,
+            2.3
+          ],
+          "unit": "M",
+          "highlight_index": 2
+        }
+      },
+      "graphic_path": "graphics/scene_03.mov",
+      "segments": [
+        {
+          "clip_path": "footage/30261517.mp4",
+          "duration": 4.029919976159217,
+          "source": {
+            "provider": "pexels",
+            "id": 30261517,
+            "url": "https://www.pexels.com/video/vibrant-containers-at-global-shipping-port-30261517/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.8
+          }
+        },
+        {
+          "clip_path": "footage/29903826.mp4",
+          "duration": 5.5696748066817,
+          "source": {
+            "provider": "pexels",
+            "id": 29903826,
+            "url": "https://www.pexels.com/video/aerial-view-of-vibrant-shipping-container-yard-29903826/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 20.4
+          }
+        },
+        {
+          "clip_path": "footage/30262141.mp4",
+          "duration": 4.839392251981798,
+          "source": {
+            "provider": "pexels",
+            "id": 30262141,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-container-terminal-30262141/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 13.4
+          }
+        },
+        {
+          "clip_path": "footage/30899269.mp4",
+          "duration": 6.159111955685039,
+          "source": {
+            "provider": "pexels",
+            "id": 30899269,
+            "url": "https://www.pexels.com/video/vibrant-aerial-view-of-bustling-container-yard-30899269/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 23.4
+          }
+        },
+        {
+          "clip_path": "footage/30261750.mp4",
+          "duration": 6.390692213178189,
+          "source": {
+            "provider": "pexels",
+            "id": 30261750,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-container-yard-at-port-30261750/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 19.8
+          }
+        },
+        {
+          "clip_path": "footage/37287417.mp4",
+          "duration": 4.963616844539391,
+          "source": {
+            "provider": "pexels",
+            "id": 37287417,
+            "url": "https://www.pexels.com/video/aerial-view-of-cargo-ship-sailing-at-sea-37287417/",
+            "photographer": "Burnard Media",
+            "photographer_url": "https://www.pexels.com/@burnard-media-2161196306",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 9.9
+          }
+        },
+        {
+          "clip_path": "footage/30899492.mp4",
+          "duration": 3.5725919517746707,
+          "source": {
+            "provider": "pexels",
+            "id": 30899492,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-container-port-terminal-30899492/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 103.425,
+    "end": 135.275,
+    "narration": "Then the acquisitions stopped being about ships at all. In 2016, CMA CGM spent 2.4 billion dollars buying Singapore's Neptune Orient Lines. Three years later it bought CEVA Logistics, a freight-forwarding company operating in over 160 countries \u2014 and that deal changed what the company actually was. It didn't just want to move your container across an ocean anymore. It wanted to own every step before and after, too.",
+    "visual": {
+      "type": "footage",
+      "query": "2016 NOL/APL acquisition graphic, ship count increasing",
+      "segments": [
+        {
+          "clip_path": "footage/17344781.mp4",
+          "duration": 4.459176208874232,
+          "source": {
+            "provider": "pexels",
+            "id": 17344781,
+            "url": "https://www.pexels.com/video/navio-cargueiro-entrando-no-porto-de-santos-17344781/",
+            "photographer": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+            "photographer_url": "https://www.pexels.com/@fabio-reis-de-abreu-portuga-96725573",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.4
+          }
+        },
+        {
+          "clip_path": "footage/31908891.mp4",
+          "duration": 4.996123321028745,
+          "source": {
+            "provider": "pexels",
+            "id": 31908891,
+            "url": "https://www.pexels.com/video/vast-cargo-ship-at-busy-seaport-31908891/",
+            "photographer": "Mario Spencer",
+            "photographer_url": "https://www.pexels.com/@spencphoto",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.5
+          }
+        },
+        {
+          "clip_path": "footage/30899358.mp4",
+          "duration": 6.361046998844493,
+          "source": {
+            "provider": "pexels",
+            "id": 30899358,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-international-container-port-30899358/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 24.6
+          }
+        },
+        {
+          "clip_path": "footage/15762839.mp4",
+          "duration": 4.81565226046859,
+          "source": {
+            "provider": "pexels",
+            "id": 15762839,
+            "url": "https://www.pexels.com/video/a-train-is-traveling-down-the-tracks-with-containers-15762839/",
+            "photographer": "Mykola  Stepaniuk",
+            "photographer_url": "https://www.pexels.com/@bike78",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 41.6
+          }
+        },
+        {
+          "clip_path": "footage/30899355.mp4",
+          "duration": 5.714354804243397,
+          "source": {
+            "provider": "pexels",
+            "id": 30899355,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-container-port-operations-30899355/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 25.7
+          }
+        },
+        {
+          "clip_path": "footage/30899476.mp4",
+          "duration": 5.503646406540552,
+          "source": {
+            "provider": "pexels",
+            "id": 30899476,
+            "url": "https://www.pexels.com/video/aerial-view-of-cargo-containers-at-busy-port-30899476/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 24.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 135.275,
+    "end": 164.0625,
+    "narration": "So it kept buying. A stake in France's largest last-mile delivery firm. An automotive logistics company. Its own air cargo airline. 4.85 billion euros for Bollor\u00e9 Logistics. And, this year, 1.4 billion for FedEx's contract logistics arm. Add it up and CMA CGM can now touch a shipment from a factory floor in Vietnam to a doorstep in Ohio without handing it off to anyone else, ever.",
+    "visual": {
+      "type": "chart",
+      "query": "logos assembling \u2014 CEVA, GEFCO, Ingram Micro, Bollor\u00e9, FedEx Supply Chain, planes",
+      "params": {
+        "kind": "bar",
+        "args": {
+          "title": "CMA CGM's Buying Spree",
+          "subtitle": "Major acquisitions, $ billions",
+          "categories": [
+            "NOL/APL\n2016",
+            "Bollor\u00e9\n2024",
+            "FedEx SC\n2026"
+          ],
+          "values": [
+            2.4,
+            4.85,
+            1.4
+          ],
+          "unit": "B",
+          "highlight_index": 1
+        }
+      },
+      "graphic_path": "graphics/scene_05.mov",
+      "segments": [
+        {
+          "clip_path": "footage/7835390.mp4",
+          "duration": 5.523683183976919,
+          "source": {
+            "provider": "pexels",
+            "id": 7835390,
+            "url": "https://www.pexels.com/video/delivery-driver-checking-for-the-order-7835390/",
+            "photographer": "Kampus Production",
+            "photographer_url": "https://www.pexels.com/@kampus",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 41.0
+          }
+        },
+        {
+          "clip_path": "footage/31983531.mp4",
+          "duration": 4.695184950040608,
+          "source": {
+            "provider": "pexels",
+            "id": 31983531,
+            "url": "https://www.pexels.com/video/busy-urban-street-with-traffic-and-delivery-rider-31983531/",
+            "photographer": "Evgenij Mikhailov",
+            "photographer_url": "https://www.pexels.com/@evgenij-mikhailov-118166450",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.3
+          }
+        },
+        {
+          "clip_path": "footage/34581140.mp4",
+          "duration": 4.532997167393163,
+          "source": {
+            "provider": "pexels",
+            "id": 34581140,
+            "url": "https://www.pexels.com/video/charming-black-and-white-tram-in-paris-34581140/",
+            "photographer": "Samar Layek",
+            "photographer_url": "https://www.pexels.com/@samar-layek-3205689",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.0
+          }
+        },
+        {
+          "clip_path": "footage/33191935.mp4",
+          "duration": 4.131618184712541,
+          "source": {
+            "provider": "pexels",
+            "id": 33191935,
+            "url": "https://www.pexels.com/video/aerial-view-of-modern-industrial-warehouse-33191935/",
+            "photographer": "Altaf Shah",
+            "photographer_url": "https://www.pexels.com/@altaf-shah-3143825",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 40.0
+          }
+        },
+        {
+          "clip_path": "footage/19538636.mp4",
+          "duration": 4.008632889788698,
+          "source": {
+            "provider": "pexels",
+            "id": 19538636,
+            "url": "https://www.pexels.com/video/cars-are-driving-down-a-street-with-motorcycles-and-cars-19538636/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 22.4
+          }
+        },
+        {
+          "clip_path": "footage/31208500.mp4",
+          "duration": 5.895383624088064,
+          "source": {
+            "provider": "pexels",
+            "id": 31208500,
+            "url": "https://www.pexels.com/video/aerial-view-of-trucks-on-rural-road-at-dusk-31208500/",
+            "photographer": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+            "photographer_url": "https://www.pexels.com/@davidpickup",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 4.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 164.0625,
+    "end": 193.17499999999998,
+    "narration": "Here's the detail that makes all of it possible. Maersk trades on the Copenhagen stock exchange and answers to shareholders every quarter. CMA CGM doesn't answer to anyone \u2014 almost three-quarters of it is still owned by the Saad\u00e9 family. Jacques handed the company to his son Rodolphe in 2017 and died the following year. Every acquisition since has happened on the family's own terms. No earnings call. No outside board to convince.",
+    "visual": {
+      "type": "footage",
+      "query": "split screen, stock exchange ticker (Maersk) vs a family portrait silhouette (Saad\u00e9)",
+      "segments": [
+        {
+          "clip_path": "footage/35888034.mp4",
+          "duration": 6.588882867460912,
+          "source": {
+            "provider": "pexels",
+            "id": 35888034,
+            "url": "https://www.pexels.com/video/large-cargo-ship-sailing-in-industrial-harbor-35888034/",
+            "photographer": "willy one",
+            "photographer_url": "https://www.pexels.com/@willyone",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 8.1
+          }
+        },
+        {
+          "clip_path": "footage/9339459.mp4",
+          "duration": 6.577961936170503,
+          "source": {
+            "provider": "pexels",
+            "id": 9339459,
+            "url": "https://www.pexels.com/video/a-full-load-container-ship-floating-on-a-sea-9339459/",
+            "photographer": "Glenn Langhorst",
+            "photographer_url": "https://www.pexels.com/@glenn-langhorst-120487",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.1
+          }
+        },
+        {
+          "clip_path": "footage/9211523.mp4",
+          "duration": 6.553467763083162,
+          "source": {
+            "provider": "pexels",
+            "id": 9211523,
+            "url": "https://www.pexels.com/video/aerial-shot-of-a-port-9211523/",
+            "photographer": "Glenn Langhorst",
+            "photographer_url": "https://www.pexels.com/@glenn-langhorst-120487",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 28.6
+          }
+        },
+        {
+          "clip_path": "footage/32750422.mp4",
+          "duration": 5.557514519674113,
+          "source": {
+            "provider": "pexels",
+            "id": 32750422,
+            "url": "https://www.pexels.com/video/aerial-view-of-busy-container-terminal-32750422/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 13.7
+          }
+        },
+        {
+          "clip_path": "footage/35907896.mp4",
+          "duration": 3.8346729136112945,
+          "source": {
+            "provider": "pexels",
+            "id": 35907896,
+            "url": "https://www.pexels.com/video/aerial-view-of-colorful-freight-trains-at-rail-yard-35907896/",
+            "photographer": "willy one",
+            "photographer_url": "https://www.pexels.com/@willyone",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 24.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 193.17499999999998,
+    "end": 239.825,
+    "narration": "And that kind of freedom is exactly how a shipping company ends up owning a news channel. In 2024, Rodolphe Saad\u00e9 spent 1.55 billion euros on BFM-TV, France's most-watched news channel, plus the radio station RMC, two newspapers, and a stake in the broadcaster M6. None of it has anything to do with containers. What it did was put Saad\u00e9 in direct competition for French public opinion with Vincent Bollor\u00e9, another industrial tycoon who owns the rival channel CNews. Two logistics billionaires, fighting over French television \u2014 because when a company answers to no one but its own family, there's nothing stopping it from becoming one.",
+    "visual": {
+      "type": "footage",
+      "query": "French news channel logos, BFM-TV, RMC, newspapers",
+      "segments": [
+        {
+          "clip_path": "footage/26893828.mp4",
+          "duration": 4.738617798324506,
+          "source": {
+            "provider": "pexels",
+            "id": 26893828,
+            "url": "https://www.pexels.com/video/a-large-container-ship-is-traveling-through-the-water-26893828/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 9.3
+          }
+        },
+        {
+          "clip_path": "footage/35860971.mp4",
+          "duration": 5.841160148859155,
+          "source": {
+            "provider": "pexels",
+            "id": 35860971,
+            "url": "https://www.pexels.com/video/aerial-view-of-cargo-ships-on-river-35860971/",
+            "photographer": "willy one",
+            "photographer_url": "https://www.pexels.com/@willyone",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 9.9
+          }
+        },
+        {
+          "clip_path": "footage/30262128.mp4",
+          "duration": 5.7586097111962635,
+          "source": {
+            "provider": "pexels",
+            "id": 30262128,
+            "url": "https://www.pexels.com/video/aerial-view-of-cargo-ship-at-container-port-30262128/",
+            "photographer": "To\u00e0n BDS",
+            "photographer_url": "https://www.pexels.com/@toanbds668",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 10.5
+          }
+        },
+        {
+          "clip_path": "footage/34043267.mp4",
+          "duration": 6.880889513149914,
+          "source": {
+            "provider": "pexels",
+            "id": 34043267,
+            "url": "https://www.pexels.com/video/aerial-view-of-cargo-ship-approaching-port-city-34043267/",
+            "photographer": "Victor Cedini",
+            "photographer_url": "https://www.pexels.com/@victor-cedini-1008734100",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.8
+          }
+        },
+        {
+          "clip_path": "footage/35801366.mp4",
+          "duration": 6.211092366665172,
+          "source": {
+            "provider": "pexels",
+            "id": 35801366,
+            "url": "https://www.pexels.com/video/massive-cargo-ship-navigating-a-river-35801366/",
+            "photographer": "willy one",
+            "photographer_url": "https://www.pexels.com/@willyone",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 4.6
+          }
+        },
+        {
+          "clip_path": "footage/13682332.mp4",
+          "duration": 4.518680310592089,
+          "source": {
+            "provider": "pexels",
+            "id": 13682332,
+            "url": "https://www.pexels.com/video/container-ship-in-harbor-13682332/",
+            "photographer": "Luke Nomad",
+            "photographer_url": "https://www.pexels.com/@luke-nomad-142956646",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 13.0
+          }
+        },
+        {
+          "clip_path": "footage/11336220.mp4",
+          "duration": 6.296621718085095,
+          "source": {
+            "provider": "pexels",
+            "id": 11336220,
+            "url": "https://www.pexels.com/video/container-ship-with-tugboats-in-commercial-dock-11336220/",
+            "photographer": "Glenn Langhorst",
+            "photographer_url": "https://www.pexels.com/@glenn-langhorst-120487",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.7
+          }
+        },
+        {
+          "clip_path": "footage/10391541.mp4",
+          "duration": 6.404328433127812,
+          "source": {
+            "provider": "pexels",
+            "id": 10391541,
+            "url": "https://www.pexels.com/video/container-ship-anchored-in-harbor-10391541/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 4.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 239.825,
+    "end": 271.09999999999997,
+    "narration": "Which brings us back to that missile. Within hours of the strike on the Koi, CMA CGM rerouted every one of its Red Sea services around the Cape of Good Hope \u2014 adding up to two weeks and roughly a million dollars to every single Asia-to-Europe voyage. Every major carrier followed within months. Suez Canal revenue for Egypt collapsed from over ten billion dollars in 2023 to around four billion in 2024, as the world's busiest shipping shortcut emptied out.",
+    "visual": {
+      "type": "map",
+      "query": "map, Red Sea, Suez Canal, missile trajectory graphic, ship diverting around Africa",
+      "params": {
+        "args": {
+          "title": "The Reroute: +2 Weeks via Cape of Good Hope",
+          "lon_range": [
+            -22,
+            108
+          ],
+          "lat_range": [
+            -40,
+            52
+          ],
+          "points": [
+            {
+              "xy": [
+                5.4,
+                43.3
+              ],
+              "label": "Marseille"
+            },
+            {
+              "xy": [
+                43.3,
+                13.5
+              ],
+              "label": "Red Sea incident"
+            },
+            {
+              "xy": [
+                18.47,
+                -34.35
+              ],
+              "label": "Cape of Good Hope"
+            }
+          ],
+          "routes": [
+            {
+              "path": [
+                [
+                  5.4,
+                  43.3
+                ],
+                [
+                  18.0,
+                  34.0
+                ],
+                [
+                  32.5,
+                  29.9
+                ],
+                [
+                  43.3,
+                  13.5
+                ]
+              ],
+              "color": "#e66767",
+              "style": "--",
+              "label": "Old route: Suez"
+            },
+            {
+              "path": [
+                [
+                  5.4,
+                  43.3
+                ],
+                [
+                  -5.5,
+                  35.9
+                ],
+                [
+                  -15.0,
+                  8.0
+                ],
+                [
+                  -8.0,
+                  -2.0
+                ],
+                [
+                  15.0,
+                  -30.0
+                ],
+                [
+                  18.47,
+                  -34.35
+                ]
+              ],
+              "color": "#3987e5",
+              "style": "-",
+              "label": "New route"
+            }
+          ],
+          "primary_route_idx": 1
+        }
+      },
+      "graphic_path": "graphics/scene_08.mov",
+      "segments": [
+        {
+          "clip_path": "footage/31908891.mp4",
+          "duration": 6.5317484690163905,
+          "source": {
+            "provider": "pexels",
+            "id": 31908891,
+            "url": "https://www.pexels.com/video/vast-cargo-ship-at-busy-seaport-31908891/",
+            "photographer": "Mario Spencer",
+            "photographer_url": "https://www.pexels.com/@spencphoto",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.5
+          }
+        },
+        {
+          "clip_path": "footage/17344781.mp4",
+          "duration": 6.026341044501262,
+          "source": {
+            "provider": "pexels",
+            "id": 17344781,
+            "url": "https://www.pexels.com/video/navio-cargueiro-entrando-no-porto-de-santos-17344781/",
+            "photographer": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+            "photographer_url": "https://www.pexels.com/@fabio-reis-de-abreu-portuga-96725573",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.4
+          }
+        },
+        {
+          "clip_path": "footage/15762839.mp4",
+          "duration": 5.278372576058867,
+          "source": {
+            "provider": "pexels",
+            "id": 15762839,
+            "url": "https://www.pexels.com/video/a-train-is-traveling-down-the-tracks-with-containers-15762839/",
+            "photographer": "Mykola  Stepaniuk",
+            "photographer_url": "https://www.pexels.com/@bike78",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 41.6
+          }
+        },
+        {
+          "clip_path": "footage/26796987.mp4",
+          "duration": 5.557758454743266,
+          "source": {
+            "provider": "pexels",
+            "id": 26796987,
+            "url": "https://www.pexels.com/video/containership-berths-at-caribbean-harbor-26796987/",
+            "photographer": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432  \u0413\u0430\u0440\u043d\u0438\u043a",
+            "photographer_url": "https://www.pexels.com/@1462740533",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 21.9
+          }
+        },
+        {
+          "clip_path": "footage/26796988.mp4",
+          "duration": 7.88077945568019,
+          "source": {
+            "provider": "pexels",
+            "id": 26796988,
+            "url": "https://www.pexels.com/video/containership-arrive-to-caribbean-port-26796988/",
+            "photographer": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432  \u0413\u0430\u0440\u043d\u0438\u043a",
+            "photographer_url": "https://www.pexels.com/@1462740533",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 19.8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 271.09999999999997,
+    "end": 300.1,
+    "narration": "And here's the part nobody saw coming: the crisis that disrupted a chokepoint carrying twelve percent of global trade was extremely good for CMA CGM's bottom line. Fewer usable routes meant less effective capacity. Less capacity meant higher freight rates. Higher freight rates meant CMA CGM's shipping division posted a fifty-two percent jump in profit that year. A crisis for global trade. A bonanza for the company moving it.",
+    "visual": {
+      "type": "chart",
+      "query": "profit chart spiking upward against a backdrop of the same ships rerouting",
+      "params": {
+        "kind": "bar",
+        "args": {
+          "title": "CMA CGM Container Shipping EBITDA",
+          "subtitle": "Billions USD \u2014 up 52% amid Red Sea rerouting",
+          "categories": [
+            "2023",
+            "2024"
+          ],
+          "values": [
+            7.4,
+            11.24
+          ],
+          "unit": "B",
+          "highlight_index": 1
+        }
+      },
+      "graphic_path": "graphics/scene_09.mov",
+      "segments": [
+        {
+          "clip_path": "footage/27678612.mp4",
+          "duration": 5.421933669586781,
+          "source": {
+            "provider": "pexels",
+            "id": 27678612,
+            "url": "https://www.pexels.com/video/big-brother-total-surveillance-27678612/",
+            "photographer": "Oleg Gamulinskii",
+            "photographer_url": "https://www.pexels.com/@oleg-gamulinskii-755060",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 10.8
+          }
+        },
+        {
+          "clip_path": "footage/6282366.mp4",
+          "duration": 4.0336301454675745,
+          "source": {
+            "provider": "pexels",
+            "id": 6282366,
+            "url": "https://www.pexels.com/video/animation-of-loss-6282366/",
+            "photographer": "Monstera Production",
+            "photographer_url": "https://www.pexels.com/@gabby-k",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 12.6
+          }
+        },
+        {
+          "clip_path": "footage/30133284.mp4",
+          "duration": 6.9540175857143165,
+          "source": {
+            "provider": "pexels",
+            "id": 30133284,
+            "url": "https://www.pexels.com/video/high-angle-view-of-crowded-street-protest-30133284/",
+            "photographer": "eQzit",
+            "photographer_url": "https://www.pexels.com/@eqzit-311814723",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 21.2
+          }
+        },
+        {
+          "clip_path": "footage/9481659.mp4",
+          "duration": 6.48394001541387,
+          "source": {
+            "provider": "pexels",
+            "id": 9481659,
+            "url": "https://www.pexels.com/video/cars-drive-through-a-flooded-street-at-night-9481659/",
+            "photographer": "Lone  Pictures",
+            "photographer_url": "https://www.pexels.com/@lone-pictures-104294981",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 29.0
+          }
+        },
+        {
+          "clip_path": "footage/12901485.mp4",
+          "duration": 6.106478583817516,
+          "source": {
+            "provider": "pexels",
+            "id": 12901485,
+            "url": "https://www.pexels.com/video/accident-on-highway-12901485/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 17.7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 300.1,
+    "end": 330.45,
+    "narration": "And CMA CGM isn't even the biggest winner. MSC, the actual largest container line in the world, is also privately held \u2014 by the Aponte family, who've run it since 1970, eight years longer than the Saad\u00e9s have run CMA CGM. Two Mediterranean shipping families now control more container capacity than every publicly traded shipping company on Earth combined. Maersk, the one name people actually recognize, isn't even close to first anymore.",
+    "visual": {
+      "type": "footage",
+      "query": "return to the MSC/Maersk/CMA CGM comparison graphic, now updated",
+      "segments": [
+        {
+          "clip_path": "footage/17344781.mp4",
+          "duration": 4.342378693401884,
+          "source": {
+            "provider": "pexels",
+            "id": 17344781,
+            "url": "https://www.pexels.com/video/navio-cargueiro-entrando-no-porto-de-santos-17344781/",
+            "photographer": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+            "photographer_url": "https://www.pexels.com/@fabio-reis-de-abreu-portuga-96725573",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.4
+          }
+        },
+        {
+          "clip_path": "footage/31908891.mp4",
+          "duration": 5.042605294790543,
+          "source": {
+            "provider": "pexels",
+            "id": 31908891,
+            "url": "https://www.pexels.com/video/vast-cargo-ship-at-busy-seaport-31908891/",
+            "photographer": "Mario Spencer",
+            "photographer_url": "https://www.pexels.com/@spencphoto",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.5
+          }
+        },
+        {
+          "clip_path": "footage/6857819.mp4",
+          "duration": 4.149336013918427,
+          "source": {
+            "provider": "pexels",
+            "id": 6857819,
+            "url": "https://www.pexels.com/video/aerial-footage-of-cargo-ship-6857819/",
+            "photographer": "Alexander Bobrov",
+            "photographer_url": "https://www.pexels.com/@alexander-bobrov-390088",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 12.3
+          }
+        },
+        {
+          "clip_path": "footage/26893751.mp4",
+          "duration": 5.193527607935264,
+          "source": {
+            "provider": "pexels",
+            "id": 26893751,
+            "url": "https://www.pexels.com/video/a-large-cargo-ship-is-traveling-through-the-water-26893751/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 4.6
+          }
+        },
+        {
+          "clip_path": "footage/34048403.mp4",
+          "duration": 5.508373114573803,
+          "source": {
+            "provider": "pexels",
+            "id": 34048403,
+            "url": "https://www.pexels.com/video/container-ship-at-sunset-on-ocean-waters-34048403/",
+            "photographer": "Sururi Ball\u0131da\u011f Director",
+            "photographer_url": "https://www.pexels.com/@drector",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 17.5
+          }
+        },
+        {
+          "clip_path": "footage/26893755.mp4",
+          "duration": 6.113779275380046,
+          "source": {
+            "provider": "pexels",
+            "id": 26893755,
+            "url": "https://www.pexels.com/video/aerial-view-of-a-container-ship-sailing-through-the-ocean-26893755/",
+            "photographer": "K",
+            "photographer_url": "https://www.pexels.com/@kelly",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 330.45,
+    "end": 357.9375,
+    "narration": "Back in Marseille, the tallest building in the city is the CMA CGM Tower \u2014 a swooping glass skyscraper built by a family that arrived from Beirut with one ship and a single route. It's a fitting monument to a company that grew, quietly, acquisition by acquisition, until it became one of the handful of businesses actually running global trade \u2014 without most of the world ever noticing.",
+    "visual": {
+      "type": "footage",
+      "query": "pull back to CMA CGM Tower, Marseille skyline",
+      "segments": [
+        {
+          "clip_path": "footage/4879375.mp4",
+          "duration": 5.137379057892325,
+          "source": {
+            "provider": "pexels",
+            "id": 4879375,
+            "url": "https://www.pexels.com/video/drone-footage-of-city-buildings-4879375/",
+            "photographer": "Tima Miroshnichenko",
+            "photographer_url": "https://www.pexels.com/@tima-miroshnichenko",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 20.4
+          }
+        },
+        {
+          "clip_path": "footage/27817920.mp4",
+          "duration": 6.494136165397516,
+          "source": {
+            "provider": "pexels",
+            "id": 27817920,
+            "url": "https://www.pexels.com/video/a-city-skyline-lit-up-at-night-with-a-large-building-in-the-background-27817920/",
+            "photographer": "Sururi Ball\u0131da\u011f Director",
+            "photographer_url": "https://www.pexels.com/@drector",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 7.9
+          }
+        },
+        {
+          "clip_path": "footage/18338780.mp4",
+          "duration": 6.672437080994849,
+          "source": {
+            "provider": "pexels",
+            "id": 18338780,
+            "url": "https://www.pexels.com/video/kuwait-city-towers-18338780/",
+            "photographer": "Obaid Alajmi",
+            "photographer_url": "https://www.pexels.com/@obaid-alajmi-154778255",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 6.7
+          }
+        },
+        {
+          "clip_path": "footage/7317055.mp4",
+          "duration": 6.588388254296885,
+          "source": {
+            "provider": "pexels",
+            "id": 7317055,
+            "url": "https://www.pexels.com/video/modern-high-rise-buildings-in-the-city-7317055/",
+            "photographer": "MART  PRODUCTION",
+            "photographer_url": "https://www.pexels.com/@mart-production",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 23.4
+          }
+        },
+        {
+          "clip_path": "footage/6971007.mp4",
+          "duration": 2.595159441418436,
+          "source": {
+            "provider": "pexels",
+            "id": 6971007,
+            "url": "https://www.pexels.com/video/time-lapse-video-of-city-during-daytime-6971007/",
+            "photographer": "YAUHENI ZAITSAU",
+            "photographer_url": "https://www.pexels.com/@digriz",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 33.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "start": 357.9375,
+    "end": 367.0,
+    "narration": "You've probably never shipped anything with CMA CGM directly. But there's a good chance something in your house crossed an ocean in one of its boxes \u2014 you just never thought to check whose name was on the side. Now you will.",
+    "visual": {
+      "type": "footage",
+      "query": "closing wide shot, container ship at sea, fade to black",
+      "segments": [
+        {
+          "clip_path": "footage/17344781.mp4",
+          "duration": 5.909992230919255,
+          "source": {
+            "provider": "pexels",
+            "id": 17344781,
+            "url": "https://www.pexels.com/video/navio-cargueiro-entrando-no-porto-de-santos-17344781/",
+            "photographer": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+            "photographer_url": "https://www.pexels.com/@fabio-reis-de-abreu-portuga-96725573",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 5.4
+          }
+        },
+        {
+          "clip_path": "footage/31908891.mp4",
+          "duration": 3.152507769080745,
+          "source": {
+            "provider": "pexels",
+            "id": 31908891,
+            "url": "https://www.pexels.com/video/vast-cargo-ship-at-busy-seaport-31908891/",
+            "photographer": "Mario Spencer",
+            "photographer_url": "https://www.pexels.com/@spencphoto",
+            "license": "Pexels License (free to use, no attribution required)",
+            "motion_score": 16.5
+          }
+        }
+      ]
+    }
+  }
+]
