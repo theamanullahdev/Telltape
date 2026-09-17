@@ -2,7 +2,9 @@
 
 This is a small Linux first toolkit for turning a written documentary script into a narrated video. It handles the repetitive parts: speech, stock footage lookup, simple maps and charts, subtitles, music, and final assembly with ffmpeg.
 
-It started as a practical project, not a platform. There is no web app, no account system, and no mysterious queue somewhere. You write the story, describe what should be on screen, then run the pipeline locally.
+I made this for my own documentary workflow, not as a polished product or a platform. There is no web app, no account system, and no mysterious queue somewhere. You write the story, describe what should be on screen, then run the pipeline locally.
+
+It works for me, but it may have rough edges, missing cases, or bugs in your setup. Please treat it as a useful starting point, not a promise that every workflow will behave nicely on the first try.
 
 ## Linux only, for now
 
@@ -61,9 +63,9 @@ Generated work stays under `projects/<slug>/` and `output/<slug>/`. Those paths 
 
 ## Model choice
 
-This toolkit can work with any capable LLM. Models with image support usually do a better job because they can inspect frames, maps, charts, and renders rather than relying only on terminal output.
+This toolkit can work with any capable LLM. In my experience, models with image support usually do a better job because they can inspect frames, maps, charts, and renders rather than relying only on terminal output.
 
-The best results in this project so far have come from Claude Sonnet 5 and Codex GPT 5.6 Sol. Text only models are still useful for planning and smaller code tasks, but they may struggle with the full visual production loop. Nematron was unreliable in the tests behind this project, though contributors are welcome to improve support for it or any other model.
+I got the best results in this project from Claude Sonnet 5 and Codex GPT 5.6 Sol. Text only models are still useful for planning and smaller code tasks, but they may struggle with the full visual production loop. Nematron failed pretty badly in my tests, though contributors are welcome to improve support for it or any other model.
 
 ## Project layout
 
