@@ -59,6 +59,12 @@ python main.py render <slug>
 
 Generated work stays under `projects/<slug>/` and `output/<slug>/`. Those paths are deliberately ignored, so a render does not quietly turn into a multi gigabyte commit.
 
+## Model choice
+
+This toolkit can work with any capable LLM. Models with image support usually do a better job because they can inspect frames, maps, charts, and renders rather than relying only on terminal output.
+
+The best results in this project so far have come from Claude Sonnet 5 and Codex GPT 5.6 Sol. Text only models are still useful for planning and smaller code tasks, but they may struggle with the full visual production loop. Nematron was unreliable in the tests behind this project, though contributors are welcome to improve support for it or any other model.
+
 ## Project layout
 
 ```text
