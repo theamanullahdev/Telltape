@@ -73,6 +73,7 @@ I got the best results in this project from Claude Sonnet 5 and Codex GPT 5.6 So
 main.py                  command line entry point
 src/                     pipeline code
 config/config.yaml       defaults and output paths
+docs/PRDPublic.md        public requirements and design notes
 projects/<slug>/         scripts, scene manifests, local working files
 output/<slug>/           final renders and generated metadata
 assets/geo/world.geojson map data used by the graphics renderer
